@@ -11,7 +11,7 @@ curl -SL http://oligarchy.co.uk/xapian/${XAPIAN_VERSION}/xapian-bindings-${XAPIA
 case $PYVER in
   3.11)
     PYBIN=/opt/python/cp311-cp311/bin
-    PYSITE=/opt/python/cp311-cp311/lib/python3.10/site-packages/
+    PYSITE=/opt/python/cp311-cp311/lib/python3.11/site-packages/
     ;;
   3.10)
     PYBIN=/opt/python/cp310-cp310/bin
